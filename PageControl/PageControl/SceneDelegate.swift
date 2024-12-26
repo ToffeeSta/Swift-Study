@@ -2,7 +2,7 @@
 //  SceneDelegate.swift
 //  PageControl
 //
-//  Created by 전정훈 on 10/29/24.
+//  Created by 전정훈 on 12/26/24.
 //
 
 import UIKit
